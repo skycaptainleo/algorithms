@@ -1,6 +1,10 @@
 ## _Algorithms_ by [Jeff Erickson](http://jeffe.cs.illinois.edu)
 
+### **1st paperback edition** — June 13, 2019 — Now available from [Amazon](https://www.amazon.com/dp/1792644833)
+
 This is a bug-reporting site for my _Algorithms_ textbook and other related course materials.  Thanks for visiting!
+
+**Thanks to everyone who reported bugs in the 0th and &frac12;th editions!**
 
 **To report an error, please [post an issue](https://github.com/jeffgerickson/algorithms/issues).**  
 * Before submitting, please check that your error hasn't already been fixed in the most recent revision.
@@ -11,7 +15,7 @@ This is a bug-reporting site for my _Algorithms_ textbook and other related cour
 
 Please also feel free to submit feature requests and other feedback.
 
-While you're here, please feel free to download a complete copy of the most recent revision of the entire book or any of the individual chapters.  (The individual chapters are typeset separately, so page numbers are inconsistent with the book, and hyperlinks to other chapters don’t work.)
+While you're here, please feel free to download a complete copy of the most recent revision of the entire book or any of the individual chapters.  (The individual chapters are extracted from the book pdf file to keep page numbers consistent; unfortunately, hyperlinks don’t work.)
 
 A black and white electronic version of the entire manuscript is also available, which should more closely reflect the appearance of the printed volume.  I won’t update that quite as often.
 
@@ -21,6 +25,15 @@ A black and white electronic version of the entire manuscript is also available,
 The most up-to-date version of the book and individual chapters is in the top-level directory.  Archival snapshots of official releases (“editions” or “printings”) are in corresponding subdirectories.  See the [Errata](ERRATA.md) for a list of updates since the most recent official release.
 
 - **0th edition** (prepublication draft) — December 29, 2018
+- **&frac12;th edition** (prepublication draft) — April 9, 2019
+- **1st paperback edition** — June 13, 2019 — Amazon links:
+	[US](https://www.amazon.com/dp/1792644833),
+	[UK](https://www.amazon.co.uk/dp/1792644833),
+	[DE](https://www.amazon.de/dp/1792644833),
+	[ES](https://www.amazon.es/dp/1792644833),
+	[FR](https://www.amazon.fr/dp/1792644833),
+	[IT](https://www.amazon.it/dp/1792644833),
+	[JP](https://www.amazon.co.jp/dp/1792644833)
 
 ---
 ### Additional Materials

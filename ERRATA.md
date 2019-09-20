@@ -4,6 +4,5 @@ The most recent version of the book and individual chapters is in the top-level 
 
 This document lists all updates (whether from errors or otherwise) since the most recent official release.
 
-### 0th edition (prepublication draft) — December 29, 2018
+### 1st paperback edition — June 13, 2019
 
-- none fixed yet
